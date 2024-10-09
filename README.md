@@ -19,7 +19,7 @@ I enjoy turning complex problems into simple, beautiful designs. I’m particula
 Feel free to reach out for collaborations, questions, or just to connect!
 
 - **Email**: [sharayu.openbox@gmail.com](mailto:sharayu.openbox@gmail.com)
-- **LinkedIn**: [www.linkedin.com/psharayu](https://www.linkedin.com/psharayu)
+- **LinkedIn**: [www.linkedin.com/in/psharayu](https://www.linkedin.com/in/psharayu)
 
 ---
 
