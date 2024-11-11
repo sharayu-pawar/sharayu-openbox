@@ -1,9 +1,9 @@
-👋 Hi, I’m Sharayu, @sharayu-openbox
+👋 Hi, I’m Sharayu!
 
 ## About Me
 
-I am a frontend developer with over 8 years of experience in creating dynamic and interactive web applications. 
-I enjoy turning complex problems into simple, beautiful designs. I’m particularly skilled in JavaScript and React based frameworks.
+I am a frontend developer and graphic designer with over 8 years of experience in creating dynamic and interactive web applications. 
+I enjoy turning complex problems into simple, beautiful designs. 
 
 ## Technologies
 
@@ -18,13 +18,13 @@ I enjoy turning complex problems into simple, beautiful designs. I’m particula
 
 Feel free to reach out for collaborations, questions, or just to connect!
 
-- **Email**: [sharayu.openbox@gmail.com](mailto:sharayu.openbox@gmail.com)
-- **LinkedIn**: [www.linkedin.com/in/psharayu](https://www.linkedin.com/in/psharayu)
+- **Email (Personal)**: [sharayupawar.nsk@gmail.com](mailto:sharayupawar.nsk@gmail.com)
+- **Email (OpenBox Creatives)**: [sharayu.openbox@gmail.com](mailto:sharayu.openbox@gmail.com)
 
 ---
 
 Thank you for visiting my page!
 <!---
-sharayu-openbox/sharayu-openbox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sharayu-pawar/sharayu-openbox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
